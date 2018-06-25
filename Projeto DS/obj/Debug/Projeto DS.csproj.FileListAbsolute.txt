@@ -1,0 +1,15 @@
+C:\Users\Técnico\Documents\Visual Studio 2013\Projects\Projeto DS\Projeto DS\bin\Debug\Projeto DS.exe.config
+E:\Projeto DS\Projeto DS\bin\Debug\Projeto DS.exe.config
+E:\Projeto DS\Projeto DS\obj\Debug\Projeto DS.csprojResolveAssemblyReference.cache
+E:\Projeto DS\Projeto DS\obj\Debug\Projeto_DS.Form1.resources
+E:\Projeto DS\Projeto DS\obj\Debug\Projeto_DS.Properties.Resources.resources
+E:\Projeto DS\Projeto DS\obj\Debug\Projeto_DS.Telas.Frmcadclientes.resources
+E:\Projeto DS\Projeto DS\obj\Debug\Projeto DS.csproj.GenerateResource.Cache
+E:\Projeto DS\Projeto DS\bin\Debug\Projeto DS.exe
+E:\Projeto DS\Projeto DS\bin\Debug\Projeto DS.pdb
+E:\Projeto DS\Projeto DS\bin\Debug\MySql.Data.dll
+E:\Projeto DS\Projeto DS\obj\Debug\Projeto DS.exe
+E:\Projeto DS\Projeto DS\obj\Debug\Projeto DS.pdb
+E:\Atividade 1 DS - Cadastrar\Projeto DS\Projeto DS\bin\Debug\Projeto DS.exe.config
+E:\Atividade 1 DS - Cadastrar\Projeto DS\Projeto DS\obj\Debug\Projeto DS.exe
+E:\Atividade 1 DS - Cadastrar\Projeto DS\Projeto DS\obj\Debug\Projeto DS.pdb
